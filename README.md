@@ -1,1 +1,1 @@
-# analiz_alg
+Zajęcia z aanalizy algorytów (2020)
